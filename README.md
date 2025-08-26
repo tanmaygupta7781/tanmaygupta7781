@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Tanmay Gupta  
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 🚀 **Computer Science Engineering Undergraduate** | 💻 **Software Developer** | 🤖 **AI/ML Enthusiast**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/tanmay-gupta-33b271252)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge)](https://github.com/tanmaygupta7781)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Tanmay2610/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:tanmayg2610@gmail.com)  
 
 ---
 
