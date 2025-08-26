@@ -1,5 +1,9 @@
-# 👋 Hi, I'm Tanmay Gupta  
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+# 👋 Hi, I'm Tanmay Gupta 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+</p>
+
 🚀 **Computer Science Engineering Undergraduate** | 💻 **Software Developer** | 🤖 **AI/ML Enthusiast**  
 
 ---
@@ -74,6 +78,10 @@
 - 🤖 **AI Foundations Certification** – Oracle University (August 2025)  
 
 ---
+## 📊 GitHub Stats  
+
+![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmaygupta7781&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaygupta7781&layout=compact&theme=tokyonight) 
 
 ## 📫 Connect with Me  
 
